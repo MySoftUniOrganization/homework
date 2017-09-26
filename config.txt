@@ -1,0 +1,3 @@
+name = Stefan
+size = 100
+email = stefan.ivn.ivn@gmail.com
